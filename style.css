@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(239, 200, 246);
+    color: black;
+}
+
+.heading
+{
+    font-size: 40px;
+    width: 80%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#camera
+{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed rgb(169, 85, 85);
+
+}
+
+#objectresult, #accuracyresult
+{
+    color: rgb(197, 196, 123);
+
+}
+
+.object_name
+{
+    color: rgb(220, 51, 141);
+    font-size: 25px;
+}
